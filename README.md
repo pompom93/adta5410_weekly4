@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# Interactive Data Pattern Exploration App
 
-A simple Streamlit app template for you to modify!
+This interactive dashboard presents insights from banking data covering 76573 customers with 20 different variables.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://blank-app-0zga44xrlc6e.streamlit.app/)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
 
